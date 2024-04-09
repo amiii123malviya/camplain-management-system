@@ -1,0 +1,16 @@
+.main
+{
+
+    /* background-color: red; */
+    margin-left: 450px;
+    width: 600px;
+    background: transparent;
+    border: 3px solid rgba(255, 255, 255, .2);
+    box-shadow: 0 0 10px  rgba(0, 0, 0, .2);
+    backdrop-filter: blur(30px);
+    color: #fff;
+    border-radius: 10px;
+    padding: 30px 40px;
+    background-color: black;
+    
+}

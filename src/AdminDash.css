@@ -1,0 +1,57 @@
+#deshboard{
+    background: gray;
+    backdrop-filter: blur(30px);
+    height: 100%;
+    color: white;
+  
+  }
+    .deshboard
+  {
+      color: white;
+      font-weight: bold;
+  }
+  
+  
+  
+  .deshboard {
+      margin: 0;
+      padding: 0;
+      width: 200px;
+      background-color: #f1f1f1;
+      position: fixed; 
+      /* height: 100%; */
+       overflow: auto;
+    }
+    
+    .deshboard a {
+      display: block;
+      color: black;
+      padding: 16px;
+      text-decoration: none;
+    }
+     
+    .deshboard a.active {
+      background-color: #6477e5;
+      color: white;
+    }
+    
+    .deshboard a:hover:not(.active) {
+      background-color: #555;
+      color: white;
+    } 
+   .content
+    {
+        margin-left: 750px;
+    }
+    .btnad
+{
+    margin-left: 50px;
+    height: 40px;
+    width: 80px;
+    font-size: 15px;
+    border-radius: 20px;
+    color: black;
+    border: 1px solid wheat;
+}
+     
+    

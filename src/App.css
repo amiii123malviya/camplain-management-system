@@ -1,0 +1,55 @@
+
+
+#menu .logo1
+{
+
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
+}
+#menu 
+{
+    width: 100%;
+    height: 50px;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    
+}
+
+#menu ul{
+    list-style-type: none;
+    margin-left: 480px;
+    
+}
+#menu ul li{
+    float: left;
+    width: 80px;
+    padding: 20px;
+    color: white;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+ #menu ul li .topmenu{
+
+    color: black;
+    font-size: 18px;
+    align-items: center;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+
+} 
+#menu ul li button
+{
+    /* margin-left: 10px; */
+    width: 95px;
+    height: 30px;
+    border-radius: 35px;
+    color: #333;
+  font-weight: 700;
+  outline: none;
+  border: none;
+justify-content: end;
+}
